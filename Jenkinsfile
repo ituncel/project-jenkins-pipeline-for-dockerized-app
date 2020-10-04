@@ -1,5 +1,5 @@
 pipeline{
-    agent { label "main" }
+    agent { label "master" }
     environment {
         ECR_REGISTRY = "283985223991.dkr.ecr.us-east-1.amazonaws.com"
         APP_REPO_NAME = "New-Jenkins"
