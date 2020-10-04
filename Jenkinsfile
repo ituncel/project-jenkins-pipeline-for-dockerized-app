@@ -3,7 +3,7 @@ pipeline{
     environment {
         ECR_REGISTRY = "283985223991.dkr.ecr.us-east-1.amazonaws.com"
 <<<<<<< HEAD
-        APP_REPO_NAME = "call-repo/phonebook-app"
+        APP_REPO_NAME = "New Jenkins"
         AWS_REGION = "us-east-1"
     }
 =======
